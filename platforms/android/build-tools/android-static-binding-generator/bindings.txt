@@ -1,0 +1,2 @@
+android.app.Application**onCreate,attachBaseContext*com.tns.NativeScriptMultiDexApp*MultiDexApp.js
+android.app.Activity**MyActivity,onCreate*com.tns.MyActivity*MyActivity.js
