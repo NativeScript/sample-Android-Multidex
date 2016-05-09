@@ -26,4 +26,3 @@
     return result;
 })();
 
-// execute with forever start -o RedundantClassNameWithTooManyMethods.java 64kPlusMethodGenerator.js
