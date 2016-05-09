@@ -1,7 +1,4 @@
 android.app.Activity.extend("com.tns.MyActivity", {
-	MyActivity: function () {
-		com.tns.Runtime.initInstance(this);
-	},
 	onCreate: function (bundle) {
 		this.super.onCreate(bundle);
 		android.util.Log.d("-----", "It works");
